@@ -1,0 +1,9 @@
+.shape{
+	background-color: white;
+	position: absolute;
+}
+
+.line{
+	background-color: black;
+	position: absolute;
+}
